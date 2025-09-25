@@ -26,7 +26,7 @@ python test.py
 ```
 
 # CNN Architecture
-![Architecture](./diagrams/cnn.png)
+<img src="./diagrams/cnn.png" alt="drawing" style="height:300px;"/>
 
 The MAE achieved usign the above architecture was 0.15.
 
